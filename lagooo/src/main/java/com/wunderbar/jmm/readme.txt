@@ -12,3 +12,6 @@ Java 的JMM (Java Memory Model):Java 内存模型
 但是volatile只保证可见性，不保证原子性，还不是线程安全的
 synchronized关键字和Lock接口实现类，都是可见性，原子性并存的
 aaaaa 能提交上去么？
+
+
+git很好用，commt提交本地修改到本地仓库，想在github网站看到，需要git->repository-push
