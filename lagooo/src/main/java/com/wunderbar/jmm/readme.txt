@@ -15,3 +15,5 @@ aaaaa 能提交上去么？
 
 
 git很好用，commt提交本地修改到本地仓库，想在github网站看到，需要git->repository-push
+
+to create a new account
