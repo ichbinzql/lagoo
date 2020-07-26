@@ -11,5 +11,4 @@ Java 的JMM (Java Memory Model):Java 内存模型
 保证可见性，可以使用关键字volatile ,synchronized ，或者JUC Lock接口的实现类
 但是volatile只保证可见性，不保证原子性，还不是线程安全的
 synchronized关键字和Lock接口实现类，都是可见性，原子性并存的
-
-just for a try ,i will be the best one among the world !
+aaaaa 能提交上去么？
